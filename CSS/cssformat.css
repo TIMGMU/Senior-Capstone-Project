@@ -1,0 +1,55 @@
+/* 
+CSS for webpages, created by Alexander Chhour, edited by Tahrina Khan, Tim Nguyen, Danieal Kiyani, Nida Ilyas, and Matthew Sanchez
+
+George Mason University
+
+Main Tags */
+h2 {
+    margin-left: 4%;
+    margin-top: 2%;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+article {
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    height: 350px;
+}
+html {
+    background-color:floralwhite;
+}
+
+header {
+    margin-bottom: 5%;
+    
+}
+
+/* Classes */
+.subtext {
+    width: 50%;
+    margin-left: 4%;
+}
+
+.frontImage {
+    float: right;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+.nav#ul {
+    display: inline-block;
+    list-style-type: none;
+}
+/* IDs */
